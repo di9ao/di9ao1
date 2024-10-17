@@ -1,5 +1,7 @@
-bem vindo
-meu nome e muryllo
-estou aprenddendo programação
-
-😄
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
